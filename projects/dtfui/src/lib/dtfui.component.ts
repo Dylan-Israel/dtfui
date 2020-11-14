@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-dtfui',
+  selector: 'dtfui-dtfui',
   template: `
     <p>
       dtfui works!
